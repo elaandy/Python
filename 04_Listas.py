@@ -12,6 +12,5 @@ mi_lista.insert(2, "andy")#insertar en una posicion de la lista en concreto
 print(mi_lista, otra_lista)
 mi_lista.pop(1)#eliminar elemento de la lista
 otra_lista[0]="rrr"#remplazar el valor
-otra_lista.reverse()
-mi_lista.sort()
+otra_lista.reverse()#la ordena al reves la lista
 print(mi_lista, otra_lista)

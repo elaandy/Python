@@ -4,7 +4,8 @@ Hola esta es otra forma de poner
 comentarios, esta se usa
 en vatias lineas mas interante tal vez
 """
-print("Hola mundo espero no seas tan cruel :D") 
+print("Hola mundo espero no seas tan cruel :D")
+print("Prueba con git") 
 print(type(2-3j))
 blanco_walter = "meta"
 print(type(blanco_walter))

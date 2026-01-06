@@ -68,4 +68,4 @@ def aplicarIva(Valor_factura, iva):
     else:
        return "Escriba bien sapo perro"
     
-print(aplicarIva(15000,20))
+print(aplicarIva(15000, 20))

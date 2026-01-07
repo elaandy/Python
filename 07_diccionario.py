@@ -17,3 +17,11 @@ del un_diccionario["Nombre"]  #Eliminar un dato del diccionario
 print(un_diccionario.items())
 print(un_diccionario.keys())
 print(un_diccionario.values())
+
+#Crear diccionario con datos pero sin valores
+un_diccionario = dict.fromkeys(otro_diccionario)
+print (un_diccionario)
+
+#Crear diccionario con datos pero todos con valores predeterminados que yo le ponga
+un_diccionario = dict.fromkeys(otro_diccionario, ("Angelica", "Maria"))
+print (un_diccionario)
